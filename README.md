@@ -2,11 +2,7 @@
 
 This project is a Python application that leverages computer vision to build an automated attendance system. It uses a live webcam feed to detect and recognize faces, matching them against a database of known individuals. Once a person is identified, their attendance is recorded in a CSV file with their name and a timestamp.
 
-## 📸 Demo
 
-![Face Recognition Demo] << **(IMPORTANT: Add a GIF or screenshot showing the webcam recognizing a face!)**
-
----
 
 ## 🚀 Features
 
